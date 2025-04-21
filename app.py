@@ -1,3 +1,5 @@
+#main code for todo list application
+
 from flask import Flask,request,render_template,redirect
 
 app = Flask(__name__)
