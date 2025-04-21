@@ -1,0 +1,19 @@
+#website for todo list app
+<!DOCTYPE html>
+<html>
+<head><title>ToDo List</title></head>
+<body>
+   <h1>My To Do List</h1>
+   <form method="post">
+     <input name="task" placeholder="Add Task">
+     <button type="submit">Add</button>
+   </form>
+   <u1>
+       {% for task in todos %}
+         <li>{{task}}</li>
+       {% endfor %}
+    </u1>
+
+
+</body>
+</html>
