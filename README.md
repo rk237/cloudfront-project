@@ -42,3 +42,9 @@ pip install python3-flask
    <img width="307" alt="image" src="https://github.com/user-attachments/assets/6272e8ad-b6ce-4dc8-a59f-7b1568a3c79e" />
 
 
+**INFRASTRUCTURE DIAGRAM **
+
+![Infrastructure Diagram](https://github.com/user-attachments/assets/1ababd3a-eee6-4bb3-87ac-7960619c741c)
+
+
+
